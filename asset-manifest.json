@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shop_kart/static/css/main.aaedad4a.css",
+    "main.js": "/shop_kart/static/js/main.3c8413e5.js",
+    "static/js/787.b12a91a2.chunk.js": "/shop_kart/static/js/787.b12a91a2.chunk.js",
+    "static/media/person_with_jacket.png": "/shop_kart/static/media/person_with_jacket.3ad8ac44c189ee44f7ea.png",
+    "static/media/person_with_jacket-half.png": "/shop_kart/static/media/person_with_jacket-half.5e2cff6455777c9942fe.png",
+    "static/media/bottom_design.png": "/shop_kart/static/media/bottom_design.7261d9d9dbfb89fe4119.png",
+    "static/media/second_image.png": "/shop_kart/static/media/second_image.fbda3167ed364c5c1ccf.png",
+    "static/media/third_image.png": "/shop_kart/static/media/third_image.ebed5af0657499eee0bf.png",
+    "static/media/first_image.png": "/shop_kart/static/media/first_image.ebaabd74339f1f20eb81.png",
+    "static/media/fourth_image.png": "/shop_kart/static/media/fourth_image.7439a0b95a460287342f.png",
+    "index.html": "/shop_kart/index.html",
+    "main.aaedad4a.css.map": "/shop_kart/static/css/main.aaedad4a.css.map",
+    "main.3c8413e5.js.map": "/shop_kart/static/js/main.3c8413e5.js.map",
+    "787.b12a91a2.chunk.js.map": "/shop_kart/static/js/787.b12a91a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaedad4a.css",
+    "static/js/main.3c8413e5.js"
+  ]
+}
